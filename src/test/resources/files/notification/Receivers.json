@@ -1,0 +1,12 @@
+{
+  "receivers": [
+    {
+      "name": "Umut",
+      "userId": "$(UMUT-SLACK-ID)"
+    },
+    {
+      "name": "Person-A",
+      "userId": "$(PERSON-SLACK-ID)"
+    }
+  ]
+}
